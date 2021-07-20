@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
   TODO:
                        DESC
 
-  s.homepage         = 'https://github.com/xt-input/XTIRouter'
+  s.homepage         = 'https://github.com/xtinput/XTIRouter'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xt-input' => 'input@tcoding.cn' }
-  s.source           = { :git => 'https://github.com/xt-input/XTIRouter.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/xtinput/XTIRouter.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
 
